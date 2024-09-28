@@ -1,4 +1,4 @@
-#include <LiquidCrystal.h>             
+#include <LiquidCrystal.h>        
 #include <Servo.h>                     
 LiquidCrystal  lcd(2,3,4,5,6,7);       
 Servo          ObjServo;               
